@@ -15,11 +15,16 @@
         </ContractorCode>
     </VechicleType>
     <VechicleType type="tractor">
-        <ContractorCode Code="7568">
+        <ContractorCode Code="7567">
             <ContractorName>केशव तुकाराम कवडे</ContractorName>
             <VehicleNo>MH12-kl8534</VehicleNo>
             <TrollyNoA>MH03-trolly_A</TrollyNoA>
             <TrollyNoB>MH04-trolly_B</TrollyNoB>
+        </ContractorCode>
+        <ContractorCode Code="7568">
+            <ContractorName>केशव तुकाराम कवडे</ContractorName>
+            <VehicleNo>MH12-kl8534</VehicleNo>
+            <TrollyNoA>MH03-trolly_A</TrollyNoA>
         </ContractorCode>
         <ContractorCode Code="7569">
             <ContractorName>विजय बाबुराव चव्हाण</ContractorName>
