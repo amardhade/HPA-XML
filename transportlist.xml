@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContractorDetails>
     <VechicleType type="truck">
-        <ContractorCode Code="1456">
-            <ContractorName>नारायण तुकाराम कांबळे</ContractorName>
-            <VehicleNo>MH12-kx1234</VehicleNo>
+        <ContractorCode Code="501">
+            <ContractorName>नारायण तुकाळे</ContractorName>
+            <VehicleNo>MH12-kx1111</VehicleNo>
         </ContractorCode>
-        <ContractorCode Code="1457">
-            <ContractorName>विजय काळूराम वाघ</ContractorName>
-            <VehicleNo>MH12-AU5643</VehicleNo>
+        <ContractorCode Code="502">
+            <ContractorName>विजय काळूराम </ContractorName>
+            <VehicleNo>MH12-AU555</VehicleNo>
         </ContractorCode>
-        <ContractorCode Code="1458">
-            <ContractorName>केशव बाबुराव गव्हाणे</ContractorName>
-            <VehicleNo>MH12-KH2356</VehicleNo>
+        <ContractorCode Code="503">
+            <ContractorName>केशव बाबुरााणे</ContractorName>
+            <VehicleNo>MH12-KH2222</VehicleNo>
         </ContractorCode>
     </VechicleType>
     <VechicleType type="tractor">
-        <ContractorCode Code="7567">
-            <ContractorName>केशव तुकाराम कवडे</ContractorName>
+        <ContractorCode Code="601">
+            <ContractorName>केशव तुकाराम </ContractorName>
             <VehicleNo>MH12-kl8534</VehicleNo>
             <TrollyNoA>MH03-trolly_A</TrollyNoA>
             <TrollyNoB>MH04-trolly_B</TrollyNoB>
         </ContractorCode>
-        <ContractorCode Code="7568">
-            <ContractorName>केशव तुकाराम कवडे</ContractorName>
+        <ContractorCode Code="602">
+            <ContractorName>केशव कवडे</ContractorName>
             <VehicleNo>MH12-kl8534</VehicleNo>
             <TrollyNoA>MH03-trolly_A</TrollyNoA>
         </ContractorCode>
-        <ContractorCode Code="7569">
-            <ContractorName>विजय बाबुराव चव्हाण</ContractorName>
-            <VehicleNo>MH12-LY6943</VehicleNo>
+        <ContractorCode Code="603">
+            <ContractorName>विजय चव्हाण</ContractorName>
+            <VehicleNo>MH12-LY6666</VehicleNo>
             <TrollyNoA>MH01-trolly_A</TrollyNoA>
             <TrollyNoB>MH02-trolly_B</TrollyNoB>
         </ContractorCode>
