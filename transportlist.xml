@@ -15,6 +15,12 @@
         </ContractorCode>
     </VechicleType>
     <VechicleType type="tractor">
+        <ContractorCode Code="5">
+            <ContractorName>केशव तुकाराम </ContractorName>
+            <VehicleNo>MH12-k123</VehicleNo>
+            <TrollyNoA>MH03-trolly_A</TrollyNoA>
+            <TrollyNoB>MH04-trolly_B</TrollyNoB>
+        </ContractorCode>
         <ContractorCode Code="601">
             <ContractorName>केशव तुकाराम </ContractorName>
             <VehicleNo>MH12-kl8534</VehicleNo>
