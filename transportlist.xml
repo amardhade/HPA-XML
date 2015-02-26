@@ -21,6 +21,18 @@
             <TrollyNoA>MH03-trolly_A</TrollyNoA>
             <TrollyNoB>MH04-trolly_B</TrollyNoB>
         </ContractorCode>
+        <ContractorCode Code="6">
+            <ContractorName>केशव तुकारामtest </ContractorName>
+            <VehicleNo>MH12-k123</VehicleNo>
+            <TrollyNoA>MH00-trolly_A</TrollyNoA>
+            <TrollyNoB>MH00-trolly_B</TrollyNoB>
+        </ContractorCode>
+        <ContractorCode Code="7">
+            <ContractorName>केशव तुकारामte1t </ContractorName>
+            <VehicleNo>MH12-k111</VehicleNo>
+            <TrollyNoA>MH00-trolly_A</TrollyNoA>
+            <TrollyNoB>MH00-trolly_B</TrollyNoB>
+        </ContractorCode>
         <ContractorCode Code="601">
             <ContractorName>केशव तुकाराम </ContractorName>
             <VehicleNo>MH12-kl8534</VehicleNo>
