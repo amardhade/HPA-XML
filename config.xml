@@ -18,4 +18,10 @@
         <rstart>500</rstart>
         <rend>600</rend>
   </imeicode>
+  <imeicode imei = "356044061108633">
+        <url>https://raw.githubusercontent.com/amardhade/HPA-XML/master/harvestingprogramdetails.xml</url>
+        <version>1</version>
+        <rstart>500</rstart>
+        <rend>600</rend>
+  </imeicode>
 </devices>
