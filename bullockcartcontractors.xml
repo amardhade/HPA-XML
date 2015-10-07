@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContractorDetails>
   <VechicleType type="Bullock Cart">
-    <ContractorCode Code="11">
+  <ContractorCode Code="11">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>11</GadiwanCode>
       <GadiwanName>जाधव शरद विलास</GadiwanName>
-    </ContractorCode>
-    <ContractorCode Code="5">
-      <ContractorName>मगर भाऊ</ContractorName>
-      <GadiwanCode>12</GadiwanCode>
-      <GadiwanName>जाधव विलास</GadiwanName>
-    </ContractorCode>
-    <ContractorCode Code="6">
-      <ContractorName>मगर भाऊ</ContractorName>
-      <GadiwanCode>13</GadiwanCode>
-      <GadiwanName>जाधव शरद </GadiwanName>
-    </ContractorCode>
-  </VechicleType>
+   </ContractorCode> 
+ </VechicleType>
 </ContractorDetails>
