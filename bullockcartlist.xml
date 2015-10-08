@@ -4,7 +4,12 @@
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>11</GadiwanCode>
       <GadiwanName>जाधव शरद विलास</GadiwanName>
-    </ContractorCode> 
+    </ContractorCode>
+    <ContractorCode Code="5">
+      <ContractorName>मगर भाऊ</ContractorName>
+      <GadiwanCode>11</GadiwanCode>
+      <GadiwanName>जाधव विलास</GadiwanName>
+    </ContractorCode>
 </ContractorDetails>
 
 
