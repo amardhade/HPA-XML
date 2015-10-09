@@ -68,4 +68,21 @@
         <Irrigation>विहीर</Irrigation>
         <Plotend>N</Plotend>
     </PlotList>
+    <PlotList plotNo="1005">
+        <ProgramNo>१</ProgramNo>
+        <GrowerCode>१५४६</GrowerCode>
+        <GrowerName>वसंत हाण</GrowerName>
+        <GatCode>१</GatCode>
+        <GatName>Pune</GatName>
+        <VillageCode>१००</VillageCode>
+        <VillageName>Kolhapur</VillageName>
+        <serveNo>२३२/३४</serveNo>
+        <CaneVariety>२</CaneVariety>
+        <CaneVarietyName>८६०३२</CaneVarietyName>
+        <CaneCode>१</CaneCode>
+        <CaneType>आडसाली</CaneType>
+        <CanegrowerType>सभासद</CanegrowerType>
+        <Irrigation>विहीर</Irrigation>
+        <Plotend>N</Plotend>
+    </PlotList>
 </HarvestingProgramDetailsList>
