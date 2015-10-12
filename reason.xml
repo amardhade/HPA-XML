@@ -21,4 +21,7 @@
   <ReasonCode Code="7">
     <Reason>test update</Reason>
   </ReasonCode>
+  <ReasonCode Code="8">
+    <Reason>test_2</Reason>
+  </ReasonCode>
 </ReasonDetails>
