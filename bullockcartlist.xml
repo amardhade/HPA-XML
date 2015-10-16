@@ -3,9 +3,9 @@
     <ContractorCode Code="13">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>11</GadiwanCode>
-      <GadiwanName>जाधव शरद विलास</GadiwanName>
+      <GadiwanName>जाधव शरद शरद</GadiwanName>
       <GadiwanCode>150</GadiwanCode>
-      <GadiwanName>जाधव विलास</GadiwanName>
+      <GadiwanName>जाधव विलास शरद</GadiwanName>
     </ContractorCode>  
     <ContractorCode Code="14">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
@@ -13,7 +13,14 @@
       <GadiwanName>जाधव शरद विलास</GadiwanName>
       <GadiwanCode>345</GadiwanCode>
       <GadiwanName>जाधव विलास</GadiwanName>
-    </ContractorCode>  
+    </ContractorCode>
+    <ContractorCode Code="14">
+      <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
+      <GadiwanCode>1</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास</GadiwanName>
+      <GadiwanCode>345</GadiwanCode>
+      <GadiwanName>जाधव विलास</GadiwanName>
+    </ContractorCode>
 </ContractorDetails>
 
 
