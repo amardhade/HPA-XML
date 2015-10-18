@@ -13,6 +13,10 @@
             <ContractorName>केशव बाबुरााणे</ContractorName>
             <VehicleNo>MH12-KH2222</VehicleNo>
         </ContractorCode>
+        <ContractorCode Code="4">
+            <ContractorName>केशव बाबुरााणे</ContractorName>
+            <VehicleNo>MH12-KH2222</VehicleNo>
+        </ContractorCode>
     </VechicleType>
     <VechicleType type="tractor">
         <ContractorCode Code="5">
