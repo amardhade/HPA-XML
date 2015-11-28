@@ -26,6 +26,11 @@
       <GadiwanCode>11</GadiwanCode>
       <GadiwanName>जाधव शरद विलास</GadiwanName>
     </ContractorCode>
+    <ContractorCode Code="15">
+      <ContractorName>test contractorाऊ</ContractorName>
+      <GadiwanCode>11</GadiwanCode>
+      <GadiwanName>जाधव शरद tester</GadiwanName>
+    </ContractorCode>
 </ContractorDetails>
 
 
