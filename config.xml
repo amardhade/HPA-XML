@@ -30,4 +30,10 @@
         <rstart>1000</rstart>
         <rend>1100</rend>
   </imeicode>
+  <imeicode imei = "359648068854721">
+        <url>https://raw.githubusercontent.com/amardhade/HPA-XML/master/harvestingprogramdetails.xml</url>
+        <version>1</version>
+        <rstart>1000</rstart>
+        <rend>1100</rend>
+  </imeicode>
 </devices>
