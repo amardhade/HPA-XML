@@ -1,32 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContractorDetails>
-    <ContractorCode Code="13">
+    <ContractorCode Code="103">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>11</GadiwanCode>
       <GadiwanName>Amar Dev</GadiwanName>
       <GadiwanCode>150</GadiwanCode>
       <GadiwanName>जाधव विलास शरद</GadiwanName>
     </ContractorCode>  
-    <ContractorCode Code="14">
+    <ContractorCode Code="104">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>112</GadiwanCode>
       <GadiwanName>जाधव शरद विलास</GadiwanName>
+      <GadiwanCode>113</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास 1</GadiwanName>
+      <GadiwanCode>114</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास 2</GadiwanName>
+      <GadiwanCode>115</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास 3</GadiwanName>
+      <GadiwanCode>116</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास 4</GadiwanName>
+      <GadiwanCode>117</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास 5</GadiwanName>
+      <GadiwanCode>118</GadiwanCode>
+      <GadiwanName>जाधव शरद विलास 6</GadiwanName>
       <GadiwanCode>345</GadiwanCode>
       <GadiwanName>जाधव विलास</GadiwanName>
     </ContractorCode>
-    <ContractorCode Code="14">
+    <ContractorCode Code="105">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>1</GadiwanCode>
       <GadiwanName>जाधव शरद विलास</GadiwanName>
+      <GadiwanCode>1110</GadiwanCode>
+      <GadiwanName>जाधव विलास 1</GadiwanName>
+      <GadiwanCode>1111</GadiwanCode>
+      <GadiwanName>जाधव विलास 2</GadiwanName>
+      <GadiwanCode>1112</GadiwanCode>
+      <GadiwanName>जाधव विलास 3</GadiwanName>
+      <GadiwanCode>1113</GadiwanCode>
+      <GadiwanName>जाधव विलास 4</GadiwanName>
+      <GadiwanCode>1114</GadiwanCode>
+      <GadiwanName>जाधव विलास 5</GadiwanName>
+      <GadiwanCode>1115</GadiwanCode>
+      <GadiwanName>जाधव विलास 6</GadiwanName>
+      <GadiwanCode>1116</GadiwanCode>
+      <GadiwanName>जाधव विलास 7</GadiwanName>
       <GadiwanCode>345</GadiwanCode>
       <GadiwanName>जाधव विलास</GadiwanName>
     </ContractorCode>
-    <ContractorCode Code="14">
+    <ContractorCode Code="106">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <GadiwanCode>11</GadiwanCode>
       <GadiwanName>जाधव शरद विलास</GadiwanName>
     </ContractorCode>
-    <ContractorCode Code="11">
+    <ContractorCode Code="107">
       <ContractorName>test contractor</ContractorName>
       <GadiwanCode>11</GadiwanCode>
       <GadiwanName>शरद tester</GadiwanName>
