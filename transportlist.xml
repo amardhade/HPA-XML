@@ -56,37 +56,37 @@
         </ContractorCode>
     </VechicleType>
     <VechicleType type="Tractor-Harvestor">
-    <ContractorCode Code="68817">
+    <ContractorCode Code="610">
       <ContractorName>१५ -१६ झांजे  नितीन  विश्वनाथ</ContractorName>
       <VehicleNo>MH-12-AH-3502</VehicleNo>
       <TrollyNoA> </TrollyNoA>
       <TrollyNoB> </TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68812">
+    <ContractorCode Code="611">
       <ContractorName>१५ -१६ ताकवणे संकेत जनार्धन </ContractorName>
       <VehicleNo>MH-42-Q-175</VehicleNo>
       <TrollyNoA>T68812-1</TrollyNoA>
       <TrollyNoB>T68812-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68806">
+    <ContractorCode Code="612">
       <ContractorName>१५ -१६ रणपिसे महादेव किसान </ContractorName>
       <VehicleNo>MH-12-GN-9126</VehicleNo>
       <TrollyNoA>T68806-1</TrollyNoA>
       <TrollyNoB>T68806-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="69055">
+    <ContractorCode Code="613">
       <ContractorName>१५ -१६ राक्षे  नितीन जालिंदर</ContractorName>
       <VehicleNo>MH-12-JN-4092</VehicleNo>
       <TrollyNoA>T69055-1</TrollyNoA>
       <TrollyNoB>T69055-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68801">
+    <ContractorCode Code="614">
       <ContractorName>१५ -१६ कुंजीर नितीन  दिलीप </ContractorName>
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T68801-1</TrollyNoA>
       <TrollyNoB>T68801-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68811">
+    <ContractorCode Code="615">
       <ContractorName>१५ -१६ ताकवणे र.ग </ContractorName>
       <VehicleNo>MH-42-F-3694</VehicleNo>
       <TrollyNoA>T68811-1</TrollyNoA>
