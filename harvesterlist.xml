@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Gadi">
+    <ContractorCode Code="68111">
+      <ContractorName>Test harvester</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68902">
       <ContractorName>१५ -१६ जगताप बापूराव गणपत -</ContractorName>
     </ContractorCode>
@@ -90,6 +93,9 @@
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Doki">
+    <ContractorCode Code="68112">
+      <ContractorName>test contractor-2</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68642">
       <ContractorName>१५ -१६ फडतरे दादाभाऊ विष्णु</ContractorName>
     </ContractorCode>
