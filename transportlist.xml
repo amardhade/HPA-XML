@@ -55,7 +55,7 @@
             <TrollyNoB>MH02-trolly_B</TrollyNoB>
         </ContractorCode>
     </VechicleType>
-    <VechicleType type="Tractor-Harvestor">
+    <VechicleType type="TractorHarvestor">
     <ContractorCode Code="610">
       <ContractorName>१५ -१६ झांजे  नितीन  विश्वनाथ</ContractorName>
       <VehicleNo>MH-12-AH-3502</VehicleNo>
