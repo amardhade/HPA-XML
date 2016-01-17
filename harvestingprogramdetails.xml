@@ -8,6 +8,8 @@
         <GatName>pune</GatName>
         <VillageCode>80</VillageCode>
         <VillageName>Mumbai</VillageName>
+        <SubVillageCode>831</SubVillageCode>
+        <SubVillageName>test</SubVillageName>
         <serveNo>२३२/३४</serveNo>
         <CaneVariety>२</CaneVariety>
         <CaneVarietyName>८६०३२</CaneVarietyName>
@@ -25,6 +27,8 @@
         <GatName>Pune</GatName>
         <VillageCode>१००</VillageCode>
         <VillageName>Nagpur</VillageName>
+        <SubVillageCode>274</SubVillageCode>
+        <SubVillageName>test_1</SubVillageName>
         <serveNo>२३२/३४</serveNo>
         <CaneVariety>२</CaneVariety>
         <CaneVarietyName>८६०३२</CaneVarietyName>
@@ -42,6 +46,8 @@
         <GatName>Pune</GatName>
         <VillageCode>48</VillageCode>
         <VillageName>Kolhapur</VillageName>
+        <SubVillageCode>1665</SubVillageCode>
+        <SubVillageName>Ganesh nagar</SubVillageName>
         <serveNo>२३२/३४</serveNo>
         <CaneVariety>२</CaneVariety>
         <CaneVarietyName>८६०३२</CaneVarietyName>
@@ -59,6 +65,8 @@
         <GatName>Pune</GatName>
         <VillageCode>22</VillageCode>
         <VillageName>Kolhapur</VillageName>
+        <SubVillageCode>428</SubVillageCode>
+        <SubVillageName>Ganesh nagar_2</SubVillageName>
         <serveNo>२३२/३४</serveNo>
         <CaneVariety>२</CaneVariety>
         <CaneVarietyName>८६०३२</CaneVarietyName>
@@ -76,6 +84,8 @@
         <GatName>Pune</GatName>
         <VillageCode>१००</VillageCode>
         <VillageName>Kolhapur</VillageName>
+        <SubVillageCode>1637</SubVillageCode>
+        <SubVillageName>Ganesh nagar_3</SubVillageName>
         <serveNo>२३२/३४</serveNo>
         <CaneVariety>२</CaneVariety>
         <CaneVarietyName>८६०३२</CaneVarietyName>
@@ -93,6 +103,8 @@
         <GatName>श्रीगोंदा</GatName>
         <VillageCode>75</VillageCode>
         <VillageName>चिंभळा</VillageName>
+        <SubVillageCode>252</SubVillageCode>
+        <SubVillageName>Ganesh nagar_4</SubVillageName>
         <serveNo>417</serveNo>
         <CaneVariety>1</CaneVariety>
         <CaneVarietyName>Co-86032</CaneVarietyName>
