@@ -39,7 +39,7 @@
   <imeicode imei = "357327073755064">
         <url>https://raw.githubusercontent.com/amardhade/HPA-XML/master/harvestingprogramdetails.xml</url>
         <version>1</version>
-        <rstart>1000</rstart>
-        <rend>1100</rend>
+        <rstart>1100</rstart>
+        <rend>1500</rend>
   </imeicode>
 </devices>
