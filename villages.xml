@@ -14,7 +14,7 @@
         <SubVillageName />
       </SubVillageCode>
       <SubVillageCode Code="0000">
-        <SubVillageName>test subvill</SubVillageName>
+        <SubVillageName>subvill-1</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="81">
@@ -564,6 +564,9 @@
       <VillageName>वढू खुर्द</VillageName>
       <SubVillageCode Code="1616">
         <SubVillageName>नागरमलaवस्ती(४०)आळंदीफाटामार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="0010101">
+        <SubVillageName>TestSubVill</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="83">
